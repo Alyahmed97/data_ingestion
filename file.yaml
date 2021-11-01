@@ -1,0 +1,13 @@
+file_type: csv
+dataset_name: iris
+file_name: final
+table_name: iris_data
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - sepal_length
+    - sepal_width
+    - petal_length
+    - petal_width
+    - variety

@@ -1,0 +1,3 @@
+no. of coulumns:5
+no. of rows:37415400
+data size: 2.186 gb
